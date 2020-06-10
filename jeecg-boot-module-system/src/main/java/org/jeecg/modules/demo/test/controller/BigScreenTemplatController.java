@@ -39,7 +39,7 @@ public class BigScreenTemplatController extends JeecgController<JeecgDemo, IJeec
     }
 
     /**
-     * 生产销售监控模版1222
+     * 生产销售监控模版1222 4444
      * @param modelAndView
      * @return
      */
