@@ -46,7 +46,7 @@ public class BigScreenTemplatController extends JeecgController<JeecgDemo, IJeec
     @RequestMapping("/index1")
     public ModelAndView index1(ModelAndView modelAndView) {
         modelAndView.setViewName("/bigscreen/template1/index");
-
+        
         return modelAndView;
     }
 
