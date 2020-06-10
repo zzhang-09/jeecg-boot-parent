@@ -33,7 +33,7 @@ public class BigScreenTemplatController extends JeecgController<JeecgDemo, IJeec
         userList.add("admin");
         userList.add("user1");
         userList.add("user2");
-        log.info("--------------test--------------");
+//        log.info("--------------test--------------");
         modelAndView.addObject("userList", userList);
         return modelAndView;
     }
