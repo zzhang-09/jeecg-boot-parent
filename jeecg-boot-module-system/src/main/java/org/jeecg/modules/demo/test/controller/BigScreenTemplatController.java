@@ -37,9 +37,8 @@ public class BigScreenTemplatController extends JeecgController<JeecgDemo, IJeec
         modelAndView.addObject("userList", userList);
         return modelAndView;
     }
-
     /**
-     * 生产销售监控模版1222 4444
+     * 生产销售监控模版1222
      * @param modelAndView
      * @return
      */
